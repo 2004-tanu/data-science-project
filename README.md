@@ -1,2 +1,2 @@
 Data Science Project 
-This Project demonstrates fit and Github Version Control
+This Project demonstrates git and Github Version Control
